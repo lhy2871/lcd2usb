@@ -6,7 +6,7 @@ Shows IP addr and CPU Men Usage
 
 
 # Like this
-\- \ \  Welcome Info \ \ \-  
-    192.168.0.21  
+\-   Welcome Info  \-  
+        192.168.0.21  
 CPU:2.0% |Mem:45.7%  
 UP 2 Hours' 2 Users
